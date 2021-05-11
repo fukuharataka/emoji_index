@@ -1,7 +1,7 @@
 # ==================== Emojis ====================
-# 🎉  :tada: 新機能追加 (Additional)
-# 👍  :+1: 機能変更・改善 (Improvement)
-# ✨  :sparkles: 新機能（New Feature）
+# 🎉  :tada: 新機能追加 (New Feature)
+# ✨  :sparkles: 機能改善（Improvement）
+# 👍  :+1: 軽微な変更・修正 (Minor Change)
 # 🐛  :bug: バグ修正（Bugfix）
 # ♻️  :recycle: リファクタリング(Refactoring)
 # 📝  :memo: コメント (Comment)
@@ -21,4 +21,5 @@
 # Commit body...
 
 # ==================== References ================
-# https://qiita.com/Jung0/items/0a9a7a97a2c17f92d3c5
+# [Commitメッセージの記事](https://qiita.com/Jung0/items/0a9a7a97a2c17f92d3c5)
+# [Githubで使える絵文字一覧](https://www.webfx.com/tools/emoji-cheat-sheet/)
